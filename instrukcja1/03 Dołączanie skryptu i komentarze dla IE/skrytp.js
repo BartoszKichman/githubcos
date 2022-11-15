@@ -1,0 +1,1 @@
+alert("to jest kod wyswietlany przez skrypt")

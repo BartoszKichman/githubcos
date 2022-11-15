@@ -1,0 +1,1 @@
+alert("witaj na na mojej stronie. Tresc jest scisle tajna.")
